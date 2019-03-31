@@ -1,3 +1,4 @@
 applications:
 - name: mdm-iot-device-phone-simulator
+  host: 23vyzz.internetofthings.ibmcloud.com
   memory: 128M
